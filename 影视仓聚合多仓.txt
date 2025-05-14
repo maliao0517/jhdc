@@ -1,0 +1,26 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "马里奥多仓",
+      "sourceUrl": "https://github.moeyy.xyz/https://github.com/maliao0517/mladc/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%A4%9A%E4%BB%93.txt"
+    },
+    {
+      "sourceName": "马里奥多仓备用",
+      "sourceUrl": "https://wp.kayyw.com/f/ZjzUW/%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%BD%B1%E8%A7%86.txt"
+    },
+    {
+      "sourceName": "讴歌多仓",
+      "sourceUrl": "https://xn--sbc-mf3g9f.u.nxog.top/nxog/ou1.php?b=欧歌sbc"
+    },
+
+    {
+      "sourceName": "天微多仓",
+      "sourceUrl": "https://qixing.myhkw.com/DC.txt"
+    }
+
+
+
+
+
+  ]
+}
